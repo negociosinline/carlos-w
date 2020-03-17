@@ -403,7 +403,8 @@ time {
 .center p{
     color: seashell;
     text-transform: uppercase;
-    letter-spacing: 2px ;
+    letter-spacing: 1px ;
+	margin:5 px;
 }
 .skillBox p:nth-child(2){
     float: right;
