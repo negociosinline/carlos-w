@@ -409,7 +409,7 @@ time {
 .skillBox p:nth-child(2){
     float: right;
     position: relative;
-    top: -25px;
+    top: -28px;
 }
 .skill{
     background: #939393;
@@ -421,7 +421,7 @@ time {
 .skill_level{
     background: #52de5e;
     width: 100%;
-    height: 10px;
+    height: 5px;
 }
 
 #uno{width: 100%;}
