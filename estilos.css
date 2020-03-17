@@ -511,8 +511,6 @@ footer{
 
 
 @media(max-width:650px){
-	body{background-image: url(img/planos2.jpg);
-	background-size: 150vh;}
     header label {
         display: block;
 	}
